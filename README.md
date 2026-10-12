@@ -19,7 +19,7 @@ This project is the result of following a crash course on **HTML** and **CSS**. 
 
 You can view the project live on GitHub Pages or directly from the repository here:
 
-[View the Project on GitHub](https://MahmoudSamy007.github.io/tutorial-project-fakebook/)
+[View the Project on GitHub](https://msamyt.github.io/tutorial-project-fakebook/)
 
 ## What I Learned
 - How to create a structured webpage using HTML
